@@ -1,9 +1,6 @@
 streamlit
 langchain
-langchain-community
-langchain-groq
-langchain-huggingface
-faiss-cpu
-sentence-transformers
-PyPDF2
-requests
+langchain_community
+langchain_huggingface
+langchain_groq
+pypdf
